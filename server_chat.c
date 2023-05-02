@@ -1,3 +1,9 @@
+/*
+
+    Proyecto de Sistemas Operativos
+
+*/
+
 #include <arpa/inet.h>
 #include <netinet/in.h>
 #include <pthread.h>
